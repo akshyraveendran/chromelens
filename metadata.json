@@ -1,0 +1,5 @@
+{
+  "name": "ChromaLens",
+  "description": "A fast, privacy-focused color extraction tool. Drop an image to analyze its palette, categorize colors, and inspect pixels with precision. Enhanced with AI for mood analysis.",
+  "requestFramePermissions": []
+}
